@@ -1,0 +1,1 @@
+# react-mock-3
